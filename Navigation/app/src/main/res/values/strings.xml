@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Snow Alert</string>
+    <string name="risorse"> Risorse</string>
+    <string name="interventi"> Interventi</string>
+    <string name="avvisi"> Avvisi</string>
+    <string name="registro"> Registro attività</string>
+    <string name="meteo"> Meteo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="risorse">
+        <item>Spazzaneve</item>
+        <item>Spargisale</item>
+        <item>Volontari</item>
+        <item>Protezione Civile</item>
+
+    </string-array>
+
+    <string-array name="quantita">
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>0</item>
+
+    </string-array>
+
+    <string-array name="mex">
+        <item>Spazzaneve1\nVia Roma 13\nN. volontari: 3\nProtezione Civile: 0</item>
+
+    </string-array>
+
+    <string-array name="elencoRisorse">
+        <item>Spazzaneve1</item>
+        <item>Spargisale2</item>
+        <item>Motopompa1</item>
+
+    </string-array>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string-array name="data">
+        <item>17/02/18</item>
+        <item>16/02/18</item>
+        <item>16/02/18</item>
+        <item>15/02/18</item>
+        <item>14/02/18</item>
+    </string-array>
+
+    <string-array name="ora">
+        <item>09:00</item>
+        <item>19:00</item>
+        <item>12:00</item>
+        <item>12:00</item>
+        <item>12:00</item>
+    </string-array>
+
+    <string-array name="mexx">
+        <item>Volontario1: Chiusura Via Roma per problemi di viabilità.</item>
+        <item>ProtezioneCivile3: Incidente in Via Giovanni Paolo II.</item>
+        <item>Sindaco: Riunione emergenza al comune domani.</item>
+        <item>Volontario222:  Via Roma per problemi di viabilità.</item>
+        <item>Volontario11121: Chiusura Via Roma per problemi di viabilità.</item>
+    </string-array>
+
+    <string-array name="mexR">
+        <item>Volontario1 ha aggiunto Avviso: Chiusura Via Roma per problemi di viabilità.</item>
+        <item>Protezione Civile3 ha aggiunto Avviso: Incidente in Via Giovanni Paolo II.</item>
+        <item>Sindaco ha aggiunto Avviso: Riunione emergenza al comune domani.</item>
+        <item>Volontario222 ha aggiunto Avviso:  Via Roma per problemi di viabilità.</item>
+        <item>Sindaco ha aggiunto Risorsa: Spargisale.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
